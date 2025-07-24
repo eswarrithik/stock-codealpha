@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💹 Stock Trading Platform (Java GUI)
 
 A simple stock trading simulator using Java Swing.
@@ -21,3 +22,6 @@ A simple stock trading simulator using Java Swing.
 ```bash
 javac *.java
 java GUIStockTrading
+=======
+# stock-codealpha
+>>>>>>> 351b971c8effb13f37425f5a036753a0c4e008e6
